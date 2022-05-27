@@ -1,0 +1,9 @@
+redux is a javascript library to manage state;
+it will helps to sync all states in the fronend. 
+it can be called as database in frontend. makes data flow transparent. 
+props:
+make changes predicatble, centralized state, easy to debug, preserve page state;
+const : 
+complexity, verbose(you need to use boiler plate code)
+
+is redux for me? 
